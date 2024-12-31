@@ -22,8 +22,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+            dist/ocean.gif?color_snake=orange&color_dots=#32CD32,#228B22,#006400,#00FF00,#008000&bg_color=333333
       - name: Upload GitHub Snake Images
         uses: actions/upload-artifact@v3  # Asegúrate de que esté usando la versión v3
         with:
