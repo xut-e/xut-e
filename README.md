@@ -8,8 +8,8 @@ Soy estudiante de Ciberseguridad con pasión por la electrónica y la programaci
 - [Correo electrónico](mailto:xut.workmail@gmail.com)
 
 ## 🛠️ Habilidades
-- **Programming Languages**: Python, C, C++, JavaScript, Bash
-- **Herramientas**: Metasploit, Burp Suite, Wireshark, Nessus, Nmap, Hydra, dirbuster
+- **Lenguajes de programación**: Python, C, C++, JavaScript, Bash
+- **Herramientas**: Metasploit, Burp Suite, Wireshark, Nessus, Nmap, Hydra, Dirbuster
 - **Seguridad**: Pentesting, análisis de vulnerabilidades, seguridad en redes
 - **Desarrollo**: Desarrollo de payloads, ingeniería inversa, scripting para automatización
 
@@ -26,7 +26,7 @@ Soy estudiante de Ciberseguridad con pasión por la electrónica y la programaci
 Este proyecto es el desarrollo de un **keylogger** en código abierto, diseñado para estudiar y entender cómo funcionan ciertos tipos de malware. Es una herramienta educativa para aprender sobre técnicas de desarrollo de software malicioso y la importancia de la seguridad en la protección contra estos ataques.
 
 ## 🎨 Animación de bienvenida
-![](https://media.giphy.com/media/3oKIPwRhlZq8rO3Hhs/giphy.gif)
+![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## 🔐 Contribuciones a la comunidad
 Me gusta compartir mis conocimientos, contribuir a proyectos de código abierto y ayudar a mejorar la seguridad en el entorno digital.
@@ -34,3 +34,4 @@ Me gusta compartir mis conocimientos, contribuir a proyectos de código abierto 
 ---
 
 ¡Gracias por visitar mi perfil!
+
