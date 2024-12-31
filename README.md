@@ -27,7 +27,8 @@ This project is the development of an **open-source keylogger**, designed to stu
 
 
 
-![snake gif](https://github.com/xut-e/xut-e/actions/artifacts/b9534bc)
+![GitHub Snake](https://github.com/xut-e/xut-e/raw/main/ocean.gif)
+
 
 
 ---
