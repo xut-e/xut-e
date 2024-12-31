@@ -25,13 +25,6 @@ I am a Cybersecurity student with a passion for electronics and programming. I l
 ### 💻 [Keylogger - Malware Development](https://github.com/xut-e/keylogger)
 This project is the development of an **open-source keylogger**, designed to study and understand how certain types of malware work. It is an educational tool to learn about techniques for developing malicious software and the importance of security in protecting against these attacks.
 
-
-
-![GitHub Snake](https://github.com/xut-e/xut-e/blob/main/ocean.gif)
-)
-
-
-
 ---
 
 Thanks for visiting my profile!
