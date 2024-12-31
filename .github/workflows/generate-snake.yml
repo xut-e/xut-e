@@ -10,7 +10,7 @@ on:
 
 jobs:
   github-snake:
-    runs-on: ubuntu-24.04  # Cambié esto a la versión más reciente de Ubuntu
+    runs-on: ubuntu-24.04  # Asegúrate de que usas la versión actual de Ubuntu
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -25,7 +25,7 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Upload GitHub Snake Images
-        uses: actions/upload-artifact@v3  # Actualicé a la versión más reciente
+        uses: actions/upload-artifact@v3  # Asegúrate de que esté usando la versión v3
         with:
           name: github-snake
           path: dist/
