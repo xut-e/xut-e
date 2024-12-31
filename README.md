@@ -1,4 +1,4 @@
-# Hello, I'm Eduardo Pordomingo! 👋
+# Hello, I'm Eduardo! 👋
 
 I am a Cybersecurity student with a passion for electronics and programming. I love learning about new technologies and providing secure solutions in the digital world. Currently, I am developing projects related to cybersecurity and working with devices like the Digispark ATTiny85.
 
@@ -25,10 +25,8 @@ I am a Cybersecurity student with a passion for electronics and programming. I l
 ### 💻 [Keylogger - Malware Development](https://github.com/xut-e/keylogger)
 This project is the development of an **open-source keylogger**, designed to study and understand how certain types of malware work. It is an educational tool to learn about techniques for developing malicious software and the importance of security in protecting against these attacks.
 
-![snake gif](https://github.com/xut-e/xut-e/blob/output/github-contribution-grid-snake.gif)
 
-## 🔐 Contributions to the Community
-I enjoy sharing my knowledge, contributing to open-source projects, and helping to improve security in the digital world.
+![snake gif](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.gif?username=xut-e)
 
 ---
 
