@@ -26,7 +26,9 @@ I am a Cybersecurity student with a passion for electronics and programming. I l
 This project is the development of an **open-source keylogger**, designed to study and understand how certain types of malware work. It is an educational tool to learn about techniques for developing malicious software and the importance of security in protecting against these attacks.
 
 
-![snake gif](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.gif?username=xut-e)
+
+![snake gif](https://github.com/xut-e/xut-e/actions/artifacts/ID_DEL_ARTIFACTO)
+
 
 ---
 
