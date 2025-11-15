@@ -66,7 +66,7 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 ➡️ [https://github.com/xut-e/KeyLogger](https://github.com/xut-e/KeyLogger)
 
-### ♟️ Chess Project (AA2)
+### ♟️ Chess Project
 
 ➡️ [https://github.com/xut-e/AA2_Ajedrez_Pordomingo_Sanchez](https://github.com/xut-e/AA2_Ajedrez_Pordomingo_Sanchez)
 
@@ -76,7 +76,7 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 ---
 
-## 🎖️ TryHackMe Badge
+## 🎖️ Badges
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/xut.png" alt="TryHackMe Badge" />
 
