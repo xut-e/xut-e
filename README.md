@@ -17,7 +17,7 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 ## 🚀 Learning Roadmap
 
 * Jr Pentester
-* Web Fundamentals              <--- Currently here
+* Web Fundamentals &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<--- Currently here
 * Web App Pentesting
 * Red Team Path
 * PT1
