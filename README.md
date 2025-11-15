@@ -1,31 +1,107 @@
-# Hello, I'm Eduardo! 👋
+# <p align="center"><img src="banner.png"/></p>
 
-I am a Cybersecurity student with a passion for electronics and programming. I love learning about new technologies and providing secure solutions in the digital world. Currently, I am developing projects related to cybersecurity and working with devices like the Digispark ATTiny85.
+# 👾 XUT / Edu
 
-## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/eduardo-pordomingo-ares-797462206/)
-- [GitHub](https://github.com/xut-e)
-- [Email](mailto:xut.workmail@gmail.com)
-
-## 🛠️ Skills
-- **Programming Languages**: Python, C, C++, JavaScript, Bash
-- **Tools**: Metasploit, Burp Suite, Wireshark, Nessus, Nmap, Hydra, Dirbuster
-- **Security**: Penetration testing, vulnerability analysis, network security
-- **Development**: Payload development, reverse engineering, automation scripting
-
-## 📜 Certifications
-- [Blue Team Labs - Practical Cybersecurity](https://www.securityblue.team/)
-- [Hack4U - Ethical Hacking](https://www.hack4u.io/)
-
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xut-e&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xut-e&layout=compact&hide_title=true&count_private=true)
-
-## 🚀 Featured Project
-### 💻 [Keylogger - Malware Development](https://github.com/xut-e/keylogger)
-This project is the development of an **open-source keylogger**, designed to study and understand how certain types of malware work. It is an educational tool to learn about techniques for developing malicious software and the importance of security in protecting against these attacks.
+## 🛡️ Cybersecurity Student | Red Team Learner | Breaking to Protect
 
 ---
 
-Thanks for visiting my profile!
+## 🔥 About Me
 
+I'm **Edu**, also known as **xut**, a **cybersecurity student** based in **Barcelona**. My goal is to learn everything I can about systems, networks, and web applications, developing an offensive mindset to better defend and help people protect their information.
+
+I'm currently studying cybersecurity formally while following an intensive roadmap on **TryHackMe**, aiming at **HackTheBox** and eventually **OffSec**.
+
+---
+
+## 🚀 Learning Roadmap
+
+* Jr Pentester
+* Web Fundamentals    <--- Currently here
+* Web App Pentesting
+* Red Team Path
+* PT1
+* THM Machines
+* SOC L1
+* SOC L2
+* Endpoint Investigations
+* SAL1
+* Security Engineer
+* DevSecOps
+* AWS A&D
+* HTB Machines
+* CPTS
+* OSCP
+* OSEP
+
+---
+
+## 🧠 Languages I Use
+
+* **C++** (my strongest)
+* Bash
+* Python
+* JavaScript
+* HTML & CSS
+
+---
+
+## 🛠️ Tools
+
+* **Burp Suite**
+* **Metasploit**
+* **nmap**
+* **gobuster**
+* **ffuf**
+* **netcat (nc)**
+* And more offensive tools...
+
+> If you want more details about specific tools or frameworks, feel free to ask.
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 KeyLogger
+
+➡️ [https://github.com/xut-e/KeyLogger](https://github.com/xut-e/KeyLogger)
+
+### ♟️ Chess Project (AA2)
+
+➡️ [https://github.com/xut-e/AA2_Ajedrez_Pordomingo_Sanchez](https://github.com/xut-e/AA2_Ajedrez_Pordomingo_Sanchez)
+
+### 🔧 Enigma Machine
+
+➡️ [https://github.com/xut-e/EnigmaMachine](https://github.com/xut-e/EnigmaMachine)
+
+---
+
+## 🎖️ TryHackMe Badge
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/xut.png" alt="TryHackMe Badge" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xut-e&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xut-e&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xut-e&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Philosophy
+
+**"Breaking to Protect"**
+
+Learning to think like an attacker to defend like a professional.
+
+---
+
+## 🧧 Contact
+
+(Already available on the left panel of GitHub)
