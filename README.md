@@ -84,13 +84,15 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xut-e&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xut-e&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xut-e&theme=tokyonight" />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xut-e&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xut-e&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xut-e&theme=tokyonight" />
+</p>
+
 
 ---
 
@@ -99,9 +101,3 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 **"Breaking to Protect"**
 
 Learning to think like an attacker to defend like a professional.
-
----
-
-## 🧧 Contact
-
-(Already available on the left panel of GitHub)
