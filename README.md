@@ -79,7 +79,8 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 ## 🎖️ Badges
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/xut.png" alt="TryHackMe Badge" />
-![THM Badge](https://www.xut-e.github.io/assets/badge/thm-badge.svg)
+![TryHackMe Badge](https://raw.githubusercontent.com/xut-e/xut-e.github.io/assets/badge/thm-badge.svg)
+
 
 ---
 
