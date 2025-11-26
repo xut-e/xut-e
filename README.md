@@ -18,17 +18,19 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 * Jr Pentester
 * Web Fundamentals &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<--- Currently here
-* Web App Pentesting
+* Web Application Pentesting
+* Web Application Red Teaming
 * Red Team Path
 * PT1
 * THM Machines
 * SOC L1
 * SOC L2
-* Endpoint Investigations
+* Advanced Endpoint Investigations
+* Defending Azure
 * SAL1
 * Security Engineer
 * DevSecOps
-* AWS A&D
+* Attacking and Defending AWS
 * HTB Machines
 * CPTS
 * OSCP
