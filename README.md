@@ -88,19 +88,14 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="30em" src="https://img.shields.io/badge/GitHub%20Stats%20(xut--e)-Click%20Here-blue?style=for-the-badge&logo=github" />
+  <img height="180em" src="https://github-readme-stats-five-plum.vercel.app/api?username=xut-e&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-five-plum.vercel.app/api/top-langs/?username=xut-e&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/xut-e?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/xut-e?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/xut-e/xut-e?style=for-the-badge" />
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=xut-e&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/github/languages/top/xut-e/xut-e?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/count/xut-e/xut-e?style=for-the-badge" />
-</p>
 
 
 
