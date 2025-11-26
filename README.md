@@ -87,11 +87,6 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-five-plum.vercel.app/api?username=xut-e&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-five-plum.vercel.app/api/top-langs/?username=xut-e&layout=compact&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=xut-e&theme=tokyonight" />
 </p>
