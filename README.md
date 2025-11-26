@@ -88,13 +88,17 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xut-e&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xut-e&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://stats.dooboo.io/api/github-stats?login=xut-e&theme=tokyonight" />
+  <img height="180em" src="https://stats.dooboo.io/api/top-langs?login=xut-e&theme=tokyonight&layout=compact" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xut-e&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=xut-e&theme=tokyonight" />
 </p>
+
+
+
+
 
 
 ---
