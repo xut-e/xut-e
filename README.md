@@ -82,19 +82,6 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/xut.png?refresh=1" alt="TryHackMe Badge" />
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=xut-e&theme=tokyonight" />
-</p>
-
-
-
-
-
 ---
 
 ## 🧩 Philosophy
