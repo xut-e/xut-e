@@ -18,8 +18,8 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 * Jr Pentester
 * Web Fundamentals 
-* Web Application Pentesting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<--- Currently here
-* Web Application Red Teaming
+* Web Application Pentesting 
+* Web Application Red Teaming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<--- Currently here
 * Red Team Path
 * PT1
 * THM Machines
