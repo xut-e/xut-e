@@ -80,7 +80,7 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 ## 🎖️ Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/xut.png?refresh=4" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/xut.png?refresh=5" alt="TryHackMe Badge" />
 
 ---
 
