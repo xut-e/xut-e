@@ -19,20 +19,12 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 * Jr Pentester
 * Web Fundamentals 
 * Web Application Pentesting 
-* Web Application Red Teaming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<--- Currently here
-* Red Team Path
-* PT1
+* Web Application Red Teaming 
+* Red Team Path &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<--- Currently here
 * THM Machines
-* SOC L1
-* SOC L2
-* Advanced Endpoint Investigations
-* Defending Azure
-* SAL1
-* Security Engineer
-* DevSecOps
-* Attacking and Defending AWS
+* PT1
 * HTB Machines
-* CPTS
+* CPTS ?
 * OSCP
 * OSEP
 
@@ -43,6 +35,7 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 * **C++** (my strongest)
 * Bash
 * Python
+* PHP
 * JavaScript
 * HTML & CSS
 
