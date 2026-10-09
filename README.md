@@ -20,11 +20,10 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 * Web Fundamentals 
 * Web Application Pentesting 
 * Web Application Red Teaming 
-* Red Team Path &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<--- Currently here
+* Red Team Path 
 * THM Machines
 * PT1
-* HTB Machines
-* CPTS ?
+* HTB Machines &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<--- Currently here
 * OSCP
 * OSEP
 
