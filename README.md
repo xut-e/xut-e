@@ -72,7 +72,9 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 ## 🎖️ Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/xut.png?refresh=5" alt="TryHackMe Badge" />
+<img src="https://cdn-images.tryhackme.com/public-profile/xut/badge-dark-319348908d33.png" alt="xut's TryHackMe badge." width="400">
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="496ce285-9b4d-4f2c-ae17-acb517aa0701" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
