@@ -74,8 +74,8 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 <img src="https://cdn-images.tryhackme.com/public-profile/xut/badge-dark-319348908d33.png" alt="xut's TryHackMe badge." width="400">
 
-<a href="https://credly.com" target="_blank">
-  <img src="https://credly.com" width="150" height="150" alt="Mi Insignia de Credly">
+<a href="https://www.credly.com/badges/496ce285-9b4d-4f2c-ae17-acb517aa0701/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/54525e33-85d1-405c-a68c-1e4dd9c7f57f/blob" width="150" height="150" alt="Mi Insignia de Credly">
 </a>
 
 
