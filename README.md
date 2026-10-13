@@ -74,7 +74,10 @@ I'm currently studying cybersecurity formally while following an intensive roadm
 
 <img src="https://cdn-images.tryhackme.com/public-profile/xut/badge-dark-319348908d33.png" alt="xut's TryHackMe badge." width="400">
 
-<img src="//cdn.credly.com/assets/utilities/embed.js">
+<a href="https://credly.com" target="_blank">
+  <img src="https://credly.com" width="150" height="150" alt="Mi Insignia de Credly">
+</a>
+
 
 ---
 
